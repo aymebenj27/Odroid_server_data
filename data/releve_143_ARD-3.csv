@@ -1,0 +1,2 @@
+id_fiche;horodatage;date_expiration;tranche;num_ardoisine;local;operateur;appareil;condition_acces;gamma;neutron;zop_statut;zop_valeur;alpha;beta;atmo;points_chauds_json;observation
+143;13:39:39 30/06/2026;30/08/2026;d;ARD-3;h;; (Val: 30/08/2026);;0;0;Non;0;0;0;0;"[]";
